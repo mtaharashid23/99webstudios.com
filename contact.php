@@ -36,7 +36,7 @@
                   <img alt="John Doe" class="" src="images/contat-icon03.png">
                   <div class="media-body">
                     <h4>Address:</h4>
-                    <p>xyz street city country</p>
+                    <p>2285 Kingsley Ave Suite A Orange Park, FL 32073</p>
                   </div>
                 </div>
               </address>
