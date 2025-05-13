@@ -4,9 +4,9 @@
 <html>
 
 <head>
-  <title> Custom Websites with special discount offers | 99webstudios
+  <title> Custom Websites with special discount offers | Digi Craft Lab LLC
   </title>
-  <meta name="description" content="99webstudios is one of the leading design agencies based in the United States. We offer Web Design, Logo design, Video animation, SEO, Branding, Mobile Apps and Social Media services to clients around the globe." />
+  <meta name="description" content="Digi Craft Lab LLC is one of the leading design agencies based in the United States. We offer Web Design, Logo design, Video animation, SEO, Branding, Mobile Apps and Social Media services to clients around the globe." />
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="ie=edge" http-equiv="X-UA-Compatible">
@@ -37,10 +37,10 @@
                     </a>
                   </li>
                   <li>
-                    <a href="tel:12345678">
-                      <i class="fas fa-phone"></i>
+                    <a href="tel:(662) 317-7820">
+                      <i class="fas fa-phone-alt"></i>
                       <p>
-                        12345678
+                        (662) 317-7820
                       </p>
                     </a>
                   </li>
@@ -126,7 +126,7 @@
                       </div>
                       <div class="form-group">
                         <input type="text" class="form-control" name="phone" maxlength="12" placeholder="Phone Number" data-validation="required">
-                        <i class="fas fa-phone"></i>
+                        <i class="fas fa-phone-alt"></i>
                       </div>
                       <div class="popup_btn">
                         <h3>Seal The Limited Time Offer <br>Before It Expires</h3>

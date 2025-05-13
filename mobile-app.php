@@ -63,7 +63,7 @@
                      <div class="col-lg-5 col-md-6 col-sm-12">
                        <div class="service-tab-text">
                          <h2>Android Apps</h2>
-                         <p>At 99webstudios.com, we develop high-quality android apps that offer incredible user experience and outstanding services by their engaging interface. Our professional tap developers know that the interface should be developed according to the overall UX of the app.</p>
+                         <p>At digicraftlabllc.com, we develop high-quality android apps that offer incredible user experience and outstanding services by their engaging interface. Our professional tap developers know that the interface should be developed according to the overall UX of the app.</p>
                        </div>
                      </div>
                    </div>
@@ -95,7 +95,7 @@
                      <div class="col-lg-5 col-md-6 col-sm-12">
                        <div class="service-tab-text">
                          <h2> Web Apps</h2>
-                         <p>We create and deploy web applications that aligns with your business effectively. Web Apps created by our professional developers supports Windows and Linux platforms. 99webstudios ensures high availability with auto patching and load balancing.</p>
+                         <p>We create and deploy web applications that aligns with your business effectively. Web Apps created by our professional developers supports Windows and Linux platforms. Digi Craft Lab LLC ensures high availability with auto patching and load balancing.</p>
                        </div>
                      </div>
                    </div>
@@ -110,7 +110,7 @@
                      <div class="col-lg-5 col-md-6 col-sm-12">
                        <div class="service-tab-text">
                          <h2> Hybrid Apps</h2>
-                         <p>At 99webstudios, we create hybrid apps for existing web pages to boost the presence in app store. Our developers ensure cross platform development and the reduction of overall development costs. Our team of hybrid app developers includes designers with expertise in mobile development technologies. </p>
+                         <p>At Digi Craft Lab LLC, we create hybrid apps for existing web pages to boost the presence in app store. Our developers ensure cross platform development and the reduction of overall development costs. Our team of hybrid app developers includes designers with expertise in mobile development technologies. </p>
                        </div>
                      </div>
                    </div>

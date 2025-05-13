@@ -4,7 +4,7 @@
 <html>
 
 <head>
-  <title>99webstudios</title>
+  <title>Digi Craft Lab LLC</title>
   <meta name="description" content="Logo Designs Eden is one of the leading design agencies based in the United States. We offer Logo design, Web Design, Video animation, SEO, Branding, Mobile Apps and Social Media services to clients around the globe." />
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -36,9 +36,9 @@
                     </a>
                   </li>
                   <li>
-                    <a href="tel:12345678"><i class="fas fa-phone"></i>
+                    <a href="tel:(662) 317-7820"><i class="fas fa-phone-alt"></i>
                       <p>
-                        12345678</p>
+                        (662) 317-7820</p>
                     </a>
                   </li>
                 </ul>
@@ -132,7 +132,7 @@
                       </div>
                       <div class="form-group">
                         <input type="text" class="form-control" name="phone" maxlength="12" placeholder="Phone Number" data-validation="required">
-                        <i class="fas fa-phone"></i>
+                        <i class="fas fa-phone-alt"></i>
                       </div>
                       <!-- <div class="form-group">
                       <div class="g-recaptcha leadCaptcha" id="mainFormCaptcha" data-sitekey=6LfJLP8UAAAAAHEWwT0kMD0ZcSJ4wiIy8D0NX2kF data-validation="required"></div>

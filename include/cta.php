@@ -4,6 +4,6 @@
     <ul>
       <li><a href="javascript:;" class="chat"> <i class="far fa-comment-alt"></i><p>Live Chat</p></a></li>
       <li><a href="javascript:;" class="nav-link pro-btn" data-toggle="modal" data-target=".bd-example-modal-lg"> Request A Quote</a></li>
-      <li><a href="tel:12345678"> <i class="fas fa-phone"></i><p>12345678</p></a></li>
+      <li><a href="tel:(662) 317-7820"> <i class="fas fa-phone-alt"></i><p>(662) 317-7820</p></a></li>
     </ul>
   </div>

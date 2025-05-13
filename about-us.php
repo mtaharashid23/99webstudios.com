@@ -25,7 +25,7 @@
              <h4>Inspired By Innovation</h4> 
              CUSTOMIZED WITH PRECISION.
             <h3>Customized <span>With Precision</span> </h3>
-            <p>Welcome to 99webstudios.com. Where passion meets Innovation, we are industry leaders in the digital world of marketing and branding because we keep our operations fast, simple, and result-driven. The choice of smart US businesses.</p>
+            <p>Welcome to digicraftlabllc.com. Where passion meets Innovation, we are industry leaders in the digital world of marketing and branding because we keep our operations fast, simple, and result-driven. The choice of smart US businesses.</p>
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@
       <div class="row">
         <div class="col-md-6">
           <h2 class="title">EVOLUTION, INNOVATION &amp; PRECISION.</h2>
-          <p>Our motto at 99webstudios.com is to keep evolving with the ever-evolving trends of the industry, always to deliver more than what our clients expect from us. We are propelled by our passion for keeping our standards above industries. We understand, estimate and integrate consumer patterns and demands.</p>
+          <p>Our motto at digicraftlabllc.com is to keep evolving with the ever-evolving trends of the industry, always to deliver more than what our clients expect from us. We are propelled by our passion for keeping our standards above industries. We understand, estimate and integrate consumer patterns and demands.</p>
         </div>
         <div class="col-md-6">
           <table>

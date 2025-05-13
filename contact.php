@@ -21,15 +21,15 @@
                 <div class="media">
                   <img alt="John Doe" class="" src="images/contat-icon01.png">
                   <div class="media-body">
-                    <h4>Call us at:</h4><a href="tel:12345678">
-                    <p>12345678</p></a>
+                    <h4>Call us at:</h4><a href="tel:(662) 317-7820">
+                    <p>(662) 317-7820</p></a>
                   </div>
                 </div>
                 <div class="media">
                   <img alt="John Doe" class="" src="images/contat-icon02.png">
                   <div class="media-body">
-                    <h4>Send Email:</h4><a href="mailto:info@99webstudios.com">
-                    <p>info@99webstudios.com</p></a>
+                    <h4>Send Email:</h4><a href="mailto:info@digicraftlabllc.com">
+                    <p>info@digicraftlabllc.com</p></a>
                   </div>
                 </div>
                 <div class="media">

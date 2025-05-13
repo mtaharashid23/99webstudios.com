@@ -40,7 +40,7 @@
                 <div class="client-info">
                   <article>
                     <img src="images/quote-img.png" data-aos="flip-up" data-aos-duration="2000">
-                    <p data-aos="flip-up" data-aos-duration="1000">99webstudios have taken our business to the next level. They created a beautiful website for our clothing brand with easy customer journey. I will surely recommend them to anyone.</p>
+                    <p data-aos="flip-up" data-aos-duration="1000">Digi Craft Lab LLC have taken our business to the next level. They created a beautiful website for our clothing brand with easy customer journey. I will surely recommend them to anyone.</p>
                     <strong data-aos="flip-up" data-aos-duration="3000">Barbara James</strong>
                     <h5 data-aos="flip-up" data-aos-duration="4000">Fashion Retailer</h5>
                   </article>

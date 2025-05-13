@@ -163,6 +163,7 @@ header.header-sec {
 }
 .addsec ul li a {
     color: #0cf1e4;
+    display: flex;
 }
 .addsec ul li a p {
     color: #fff;
